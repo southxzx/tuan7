@@ -1,0 +1,10 @@
+F:\STUDYYY\Thiet Ke Phan Mem Huong Doi Tuong\tuan7_nhom\bt_tuan7\bt_tuan7\bin\Debug\bt_tuan7.exe.config
+F:\STUDYYY\Thiet Ke Phan Mem Huong Doi Tuong\tuan7_nhom\bt_tuan7\bt_tuan7\bin\Debug\bt_tuan7.exe
+F:\STUDYYY\Thiet Ke Phan Mem Huong Doi Tuong\tuan7_nhom\bt_tuan7\bt_tuan7\bin\Debug\bt_tuan7.pdb
+F:\STUDYYY\Thiet Ke Phan Mem Huong Doi Tuong\tuan7_nhom\bt_tuan7\bt_tuan7\obj\Debug\bt_tuan7.csprojAssemblyReference.cache
+F:\STUDYYY\Thiet Ke Phan Mem Huong Doi Tuong\tuan7_nhom\bt_tuan7\bt_tuan7\obj\Debug\bt_tuan7.Form1.resources
+F:\STUDYYY\Thiet Ke Phan Mem Huong Doi Tuong\tuan7_nhom\bt_tuan7\bt_tuan7\obj\Debug\bt_tuan7.Form2.resources
+F:\STUDYYY\Thiet Ke Phan Mem Huong Doi Tuong\tuan7_nhom\bt_tuan7\bt_tuan7\obj\Debug\bt_tuan7.Properties.Resources.resources
+F:\STUDYYY\Thiet Ke Phan Mem Huong Doi Tuong\tuan7_nhom\bt_tuan7\bt_tuan7\obj\Debug\bt_tuan7.csproj.GenerateResource.cache
+F:\STUDYYY\Thiet Ke Phan Mem Huong Doi Tuong\tuan7_nhom\bt_tuan7\bt_tuan7\obj\Debug\bt_tuan7.exe
+F:\STUDYYY\Thiet Ke Phan Mem Huong Doi Tuong\tuan7_nhom\bt_tuan7\bt_tuan7\obj\Debug\bt_tuan7.pdb
